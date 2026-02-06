@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> ### Please embrace open-source for real:
+> ### Please embrace genuine open-source:
 >  - Just use [Sourcehut](https://sourcehut.org/) or [Codeberg](https://codeberg.org)
 >  - Stop [feeding Microsoft Github](https://giveupgithub.org/)
 
