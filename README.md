@@ -5,4 +5,7 @@
 
 ![GiveUpGithub](https://sfconservancy.org/static/img/GiveUpGitHub.svg)[^1]
 
+> [!TIP]
+> Still need github? Opt-out of MicroSlop Copilot in [Profile Settings] -> [Copilot]
+
 [^1]: Image source: [sfconservancy.org](https://sfconservancy.org), license [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
